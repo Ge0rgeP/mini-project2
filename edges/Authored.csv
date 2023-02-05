@@ -1,0 +1,6 @@
+Book_ISBN,Author_ID,Author_Order,Role
+978-0345339703,1,1,"author"
+978-0439708180,2,1,"author"
+978-1451639612,3,1,"author"
+978-0345339703,4,2,"co-author"
+978-0439708180,5,2,"editor"
